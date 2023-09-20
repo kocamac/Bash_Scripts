@@ -1,0 +1,2 @@
+kullanici_adi;Adi Soyadi
+user1;UserAdi UserSoyadi
